@@ -27,7 +27,7 @@ Currently sole founder and developer of **[Aegis Atlas](https://aegis-atlas.verc
 **Stack:** `React 18 + Vite` · `FastAPI` · `Supabase PostgreSQL` · `Redis` · `Railway` · `Vercel`  
 **Security:** TOTP 2FA · RLS on 9 tables · brute-force lockout · API key middleware · HMAC monitor sessions · IP hashing
 
-🌐 [aegis-atlas.vercel.app](https://aegis-atlas.vercel.app) &nbsp;|&nbsp; 🔒 [Admin Portal](https://aegis-atlas-admin-system.vercel.app)
+🌐 [aegis-atlas.vercel.app](https://aegis-atlas.vercel.app) &nbsp;|&nbsp; 
 
 ---
 
